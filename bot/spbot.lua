@@ -234,7 +234,7 @@ local sudo = tonumber(io.read())
 			
 			
     },
-    sudo_users = {255317894,308444837,sudo},--Sudo users
+    sudo_users = {378373042,sudo},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v4
 An advanced administration bot based on TG-CLI written in Lua
